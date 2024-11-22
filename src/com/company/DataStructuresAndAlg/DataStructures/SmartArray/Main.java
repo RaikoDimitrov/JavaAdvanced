@@ -1,4 +1,4 @@
-package com.company.DataStructuresAndAlg.SmartArray;
+package com.company.DataStructuresAndAlg.DataStructures.SmartArray;
 
 public class Main {
     public static void main(String[] args) {

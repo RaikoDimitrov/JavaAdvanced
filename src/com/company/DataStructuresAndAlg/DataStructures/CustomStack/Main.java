@@ -1,4 +1,4 @@
-package com.company.DataStructuresAndAlg.CustomStack;
+package com.company.DataStructuresAndAlg.DataStructures.CustomStack;
 
 public class Main {
     public static void main(String[] args) {

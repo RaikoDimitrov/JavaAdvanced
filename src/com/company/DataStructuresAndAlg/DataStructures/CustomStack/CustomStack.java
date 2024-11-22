@@ -1,4 +1,4 @@
-package com.company.DataStructuresAndAlg.CustomStack;
+package com.company.DataStructuresAndAlg.DataStructures.CustomStack;
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;
