@@ -1,4 +1,4 @@
-package com.company.DataStructuresAndAlg.SmartArray;
+package com.company.DataStructuresAndAlg.DataStructures.SmartArray;
 
 import java.util.Arrays;
 import java.util.function.Consumer;
