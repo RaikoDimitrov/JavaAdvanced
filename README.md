@@ -38,7 +38,7 @@
 ### 9. Algorithms
 - Basics of algorithm design and problem-solving strategies.
 
-## Repository Structure
+## 📂Repository Structure
 
 The repository includes:
 - **Code Examples**: Each folder corresponds to a specific course module.
